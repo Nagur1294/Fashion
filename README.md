@@ -5,4 +5,14 @@
 Source Files included: – HTML files (.html), Style Sheets (.css), Images (.jpg/png),
 JQuery plugins (.js),Fonts (.ttf).
 High Resolution: Yes.
+# Features:
+Fully Responsive
+Modern and Elegant Design
+Used Font awesome icons and Glyph icons
+HTML5 & CSS3
+Google Fonts used
+Bootstrap Framework
+Smooth animated search button
+CSS hover effects
+And more…
  
